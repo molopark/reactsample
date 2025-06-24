@@ -6,7 +6,7 @@ function ClickButton() {
     // 클릭 이벤트 핸들러
     const handleClick = () => {
         setCount(count + 1);
-        alert('버튼이 클릭되었습니다!');
+        // alert('버튼이 클릭되었습니다!');
     };
 
     return (
